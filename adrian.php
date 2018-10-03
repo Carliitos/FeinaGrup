@@ -10,7 +10,12 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php            
+        <?php
+        class AdrianClass{
+        public function Carlos() {
+            return "";
+        }
+        }
         ?>
     </body>
 </html>
