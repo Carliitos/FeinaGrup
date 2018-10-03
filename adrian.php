@@ -13,7 +13,10 @@ and open the template in the editor.
         <?php
         class AdrianClass{
         public function Carlos() {
-            return "";
+            
+        }
+        public function Andres(){
+            
         }
         }
         ?>
