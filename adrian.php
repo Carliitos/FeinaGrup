@@ -18,6 +18,9 @@ and open the template in the editor.
         public function Andres(){
             
         }
+        public function Adrian(){
+            
+        }
         }
         ?>
     </body>
