@@ -16,7 +16,7 @@
             echo "Adrian";
         }
         public function Issam(){
-            echo "Issam";
+            echo "Issam modificat";
         }
         }
         ?>
