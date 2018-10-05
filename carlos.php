@@ -11,15 +11,15 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        class AdrianClass{
+        class CarlosClass{
         public function Carlos() {
-            
+            echo "carlos";
         }
         public function Andres(){
-            
+            echo "carloers";
         }
         public function Adrian(){
-            
+            echo "carlossgd";
         }
         }
         ?>
