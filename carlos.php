@@ -19,7 +19,7 @@ and open the template in the editor.
             echo "carloers";
         }
         public function Adrian(){
-            echo "Adrian";
+            echo "McDonalds";
         }
         }
         ?>
